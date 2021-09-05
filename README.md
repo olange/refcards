@@ -5,6 +5,8 @@ Checkout the [`gh-pages` branch](../../tree/gh-pages), which contains the actual
 The `main` branch is now used to accumulate new content, not published so far.
 
 * [Sheets](sheets/) _body of commands by theme, described on synthetic sheets_
+  * [Neo4j DBA Ops](sheets/Neo4j-DBA-ops)
+  * [Sysadmin 101](sheets/Sysadmin-101)
   * [Git](sheets/git.md) _useful Git commands_
 * [Cards](cards/) _recipes by theme, described on individual cards (« Fiches du Petit Atelier »)_
   * [Renommer une branche distante](cards/git-renommer-branche-distante.md)
