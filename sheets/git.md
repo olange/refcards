@@ -29,3 +29,7 @@
 |---|---|
 |`git reflog`|to see where your HEAD and branch references have been|
 |`git show master@{yesterday}`|to see where your master branch was yesterday|
+
+### See also
+
+* [Cards › Git](../cards/README.md)

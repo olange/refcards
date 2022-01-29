@@ -6,3 +6,7 @@ Recipes by theme, described on individual cards (« Fiches du Petit Atelier »).
 * [Créer une branche vierge avec Git](git-creer-branche-vierge.md)
 * [Supprimer des commits fautifs avec Git](git-supprimer-commits-fautifs.md)
 * [Learning Git](git-learning.md)
+
+### See also
+
+* [Sheets › Git](../sheets/git.md)
