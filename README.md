@@ -1,6 +1,7 @@
 # Reference cards
 
 `TODO` Transcrire mes cartes [Makandra](https://makandracards.com/sites)
+`TODO` Référencer Python et Unix reference cards de 2004 (déplacés de PAGL.svn vers REFCARDS.git en 05.2024)
 
 * [Sheets](sheets/) _body of commands by theme, described on synthetic sheets_
   * [Neo4j DBA Ops](sheets/Neo4j-DBA-ops.md)
