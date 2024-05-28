@@ -13,6 +13,10 @@ Recipes by theme, described on individual cards (« Fiches du Petit Atelier »).
 
   * [HTML5 Fundamentals](html5-fundamentals.md)
 
+### Ruby
+
+ * [RSpec avec MacRuby](ruby-rspec-avec-macruby.md)
+
 ### See also
 
 * [Sheets › Git](../sheets/git.md)
